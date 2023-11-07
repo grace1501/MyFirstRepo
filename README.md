@@ -1,2 +1,2 @@
 # MyFirstRepo
-this is an asiignment for week 2 of the program.
+this is an assignment for week 2 of the program.
